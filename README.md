@@ -5,7 +5,7 @@ The purpose of this was to expand my object oriented programming abilities and a
 
 ## Navigate into the directory on the command line
 
-## Build and link all files using you systems c++ compiler (clang, g++, etc)
+## Build and link all files using your systems c++ compiler (clang, g++, etc)
 
 ## Run the executable output file
 
